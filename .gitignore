@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+credentials.json
+secrets.json
+config.local.js
+*.local.html
+.DS_Store
+Thumbs.db
